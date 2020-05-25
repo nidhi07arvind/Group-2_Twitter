@@ -1,4 +1,4 @@
-# Group-2_Twitter 
+# Twitter Prototype Application
 
 ## CMPE273 [Fall'19]
 
@@ -18,6 +18,10 @@ Mongo DB
 MySQL
 Node Js
 Express Js
+AWS 
+
+## Abstract
+Twitter is a microblogging, social-networking service on which users post and interact with messages called 'tweets'.
 
 ### Steps to run the application
 #### Frontend
