@@ -1,9 +1,10 @@
 # Twitter Prototype Application
 
-## CMPE273 [Fall'19]
+## Project Description
+Twitter is a microblogging, social-networking service on which users post and interact with messages called 'tweets'. Designed and developed a modular, distributed protoytpe of Twitter application as part of CMPE-273 final project. This prototype supports majority of features presented by actual twitter application such as tweet a message, attach media files into a tweet, retweet, search users, follow/unfollow, like/unlike a tweet, post a comment on a tweet, hashtags, signup, login, update profile, chat with others, create and manage lists.</br></br>
+We also developed dashboard to track daily/hourly/monthly tweets, top 10 liked tweets, top 10 viewed tweets, top 5 retweets. 
 
-## Abstract
-Twitter is a microblogging, social-networking service on which users post and interact with messages called 'tweets'. Designed and developed a modular, distributed protoytpe of Twitter application as part of CMPE-273 final project. 
+
 
 
 ### Team Members
