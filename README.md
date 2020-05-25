@@ -2,6 +2,10 @@
 
 ## CMPE273 [Fall'19]
 
+## Abstract
+Twitter is a microblogging, social-networking service on which users post and interact with messages called 'tweets'. Designed and developed a modular, distributed protoytpe of Twitter application as part of CMPE-273 final project. 
+
+
 ### Team Members
 #### 1. Naga Abhilash Reddy Julakanti - 013816127
 #### 2. Nidhi Tattur Aravinda Kumar - 013845494
@@ -20,8 +24,6 @@ Node Js
 Express Js
 AWS 
 
-## Abstract
-Twitter is a microblogging, social-networking service on which users post and interact with messages called 'tweets'.
 
 ### Steps to run the application
 #### Frontend
